@@ -9,7 +9,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <RouterLink to="/bmi" class="p-4 hover:text-green-700">BMI計算機</RouterLink>
       <RouterLink to="/dice" class="p-4 hover:text-green-700">Dice Game</RouterLink>
       <RouterLink to="/guess" class="p-4 hover:text-green-700">Guessing Game</RouterLink>
-      <RouterLink to="/weather" class="p-4 hover:text-green-700">Weather Cards</RouterLink>
+      <!-- <RouterLink to="/weather" class="p-4 hover:text-green-700">Weather Cards</RouterLink> -->
     </nav>
   </header>
   <RouterView />
